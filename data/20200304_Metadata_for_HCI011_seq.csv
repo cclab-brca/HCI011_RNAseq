@@ -1,0 +1,22 @@
+﻿Number sample,Submodel,Treatment,Sample name,Model,Group,Origin,Type of material,Treatment arm,Days treatment ,Sensitivity,Volume of Tumor,Cause of death 
+1,HCI-011R,vehicle,HCI011-T1-P02-18.6756L2-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,vehicle,57,Resistant,245,end of exp
+2,HCI-011R,gdc,HCI011-T1-P02-18.6757NM-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,127,end of exp
+3,HCI-011R,vehicle,HCI011-T1-P02-18.6756L1-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,vehicle,57,Resistant,238,end of exp
+4,HCI-011R,vehicle,HCI011-T1-P02-18.6756B-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,vehicle,57,Resistant,418,end of exp
+5,HCI-011R,vehicle,HCI011-T1-P02-18.6756NM-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,vehicle,57,Resistant,415,end of exp
+6,HCI-011R,vehicle,HCI011-T1-P02-18.6756R1-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,vehicle,57,Resistant,1101,end of exp
+7,HCI-011,gdc,HCI011-T1-P01-18.242L2-T1,HCI011,1,HCI011-x3 (spare of tumour of HCI011-x2 implanted),3 doses,GDC0032,4,Sensitive,648,end of exp
+8,HCI-011,gdc,HCI011-T1-P01-18.242NM-T1,HCI011,1,HCI011-x3 (spare of tumour of HCI011-x2 implanted),3 doses,GDC0032,4,Sensitive,498,end of exp
+9,HCI-011,gdc,HCI011-T1-P01-18.239L1-T1,HCI011,1,HCI011-x3 (spare of tumour of HCI011-x2 implanted),3 doses,GDC0032,4,Sensitive,570,end of exp
+10,HCI-011,gdc,HCI011-T1-P01-18.242B-T1,HCI011,1,HCI011-x3 (spare of tumour of HCI011-x2 implanted),3 doses,GDC0032,4,Sensitive,464,end of exp
+11,HCI-011,vehicle,HCI011-T1-P01-18.9413R1-T1,HCI011,1,HCI011-x2,3 doses,vehicle,4,-,540,end of exp
+12,HCI-011,vehicle,HCI011-T1-P01-18.9416L2-T1,HCI011,1,HCI011-x2,3 doses,vehicle,4,-,1066,end of exp
+13,HCI-011,vehicle,HCI011-T1-P01-18.241B-T1,HCI011,1,HCI011-x3 (spare of tumour of HCI011-x2 implanted),3 doses,vehicle,4,-,498,end of exp
+14,HCI-011,vehicle,HCI011-T1-P01-18.9413L2-T1,HCI011,1,HCI011-x2,3 doses,vehicle,4,-,695,end of exp
+21,HCI-011R,gdc,HCI011-T1-P02-18.6758B-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,1063,end of exp
+22,HCI-011R,gdc,HCI011-T1-P02-18.6758L1-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,240,end of exp
+24,HCI-011R,gdc,HCI011-T1-P02-18.6758L2-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,278,end of exp
+25,HCI-011R,gdc,HCI011-T1-P02-18.6757L1-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,433,end of exp
+26,HCI-011R,gdc,HCI011-T1-P02-18.6757R1-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,346,end of exp
+27,HCI-011R,gdc,HCI011-T1-P02-18.6758NM-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,453,end of exp
+28,HCI-011R,gdc,HCI011-T1-P02-18.6757L2-T1,HCI011,3,implanted from number 19,Resistant material_Long treatment,GDC0032,57,Resistant,307,end of exp
